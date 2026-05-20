@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>AI Spend Audit</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>AI Spend Audit</h1>
+        <p class="subtitle">Find out if you are overspending on AI tools.</p>
+        <div class="form-box">
+            <label>Choose Tool</label>
+            <select id="tool">
+                <option>ChatGPT</option>
+                <option>Claude</option>
+                <option>Cursor</option>
+                <option>Gemini</option>
+            </select>
+            <label>Select Plan</label>
+            <select id="plan">
+                <option>Free</option>
+                <option>Plus</option>
+                <option>Team</option>
+                <option>Business</option>
+            </select>
+            <label>Monthly Spend ($)</label>
+            <input type= "number" id= "spend" placeholder= "Enter Amount">
+
+            <label>Team Size</label>
+            <input type="number" id="team" placeholder="Enter team size">
+            
+            <button id="auditBtn">Generate Audit</button>
+        </div>
+        <div class="result-box">
+            <h2>Audit Result</h2>
+            <p id="resultText">Your audit result will appear here.</p>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>
