@@ -20,3 +20,20 @@ What I learned:
 Plan for tomorrow:
 * Build audit recommendation logic
 * Add savings calculation
+
+##Day 2  __ 21-05-2026
+What I did:
+-Added audit recommendation logic
+-Added savings calculation
+-Displayed dynamic audit results
+-connected JavaScript with UI output
+
+What I Learned:
+-Learned preventDefault() concept
+-Improved debugging and Github workflow
+
+Plan for tomorrow:
+-Add reset button functionality
+-Add AI tool selection dropdown
+-Add risk level system
+-Add dynamic colored outputs
