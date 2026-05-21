@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
-
 body{
     background: #0f172a;
     color: white;
@@ -62,5 +61,5 @@ button:hover{
     background: #2563eb;
 }
 .result-box h2{
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
