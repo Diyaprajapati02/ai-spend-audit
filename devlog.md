@@ -33,7 +33,20 @@ What I Learned:
 -Improved debugging and Github workflow
 
 Plan for tomorrow:
--Add reset button functionality
+-Add reset button 
 -Add AI tool selection dropdown
 -Add risk level system
 -Add dynamic colored outputs
+
+##Day 3  ___22-05-2026
+What I Did:
+*Added reset button
+*Added risk level concept
+*Added Dynamic colored output for Risk 
+*Improved audit recommendation logic
+
+What I learned:
+*learned how to change CSS classes dynamically using className in JavaScript.
+
+Plan for tomorrow:
+*I will make a separate file for data & connect files to make the pricing data dynamically.

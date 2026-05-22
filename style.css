@@ -63,3 +63,15 @@ button:hover{
 .result-box h2{
     margin-bottom: 10px;
 }
+.high-risk{
+    color: red;
+    font-weight: bold;
+}
+.medium-risk{
+    color: orange;
+    font-weight: bold;
+}
+.low-risk{
+    color: green;
+    font-weight: bold;
+}
