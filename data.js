@@ -1,0 +1,1 @@
+const aiTools= {ChatGPT: 20, Claude: 25, Gemini: 15, Cursor: 30};

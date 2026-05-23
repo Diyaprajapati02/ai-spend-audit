@@ -50,3 +50,19 @@ What I learned:
 
 Plan for tomorrow:
 *I will make a separate file for data & connect files to make the pricing data dynamically.
+
+##Day 4 ____23-05-2026
+Hours worked:1
+What I Did:
+*Added separate data.js file
+*Created AI pricing data object
+*Connected multiple JavaScript files
+*Displayed tool pricing dynamically.
+
+What I learned:
+*learned the difference between dot notation and bracket notation in javascript objects.
+*learned that bracket notation is useful when the key name comes dynamically from user input.
+
+Plan for tomorrow:
+* I wiil make a separate result page and show how data transfer from one page to another and I will also add localStorage to save the data.
+

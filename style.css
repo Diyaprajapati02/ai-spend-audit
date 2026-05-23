@@ -62,6 +62,9 @@ button:hover{
 }
 .result-box h2{
     margin-bottom: 10px;
+#tool-name{
+    margin-bottom: 10px;
+}
 }
 .high-risk{
     color: red;
