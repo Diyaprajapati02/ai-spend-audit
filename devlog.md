@@ -66,3 +66,18 @@ What I learned:
 Plan for tomorrow:
 * I wiil make a separate result page and show how data transfer from one page to another and I will also add localStorage to save the data.
 
+##Day 5  _____24-05-2026
+Hours Worked: 2
+What I Did:
+*Created separate result.html page
+*Created result.js file
+*Used localStorage to transfer data between pages
+*Added risk level color styling
+
+What I Learned:
+*How to move data from one page to another
+*understanding of localStorage
+*Better understanding of DOM updates
+
+Plan for Tomorrow:
+*I will improve the UI design and spacing and i will also add better result card styling and make the project more responsive.
