@@ -81,3 +81,22 @@ What I Learned:
 
 Plan for Tomorrow:
 *I will improve the UI design and spacing and i will also add better result card styling and make the project more responsive.
+
+##Day 6  _______25-05-2026
+Hours Worked: 2
+What I Learned:
+*Added recommendation, savings, and risk level sections.
+*Added loading text "Analyzing.." on button click.
+*Improved UI colors.
+
+What I Learned:
+*How button loading states work using innerText.
+*Difference between miliseconds andseconds in setTimeout.
+*How to create realistic UI interactions,
+
+#Challenges:
+*Result page was opening too fast, so loading text was not visible.
+
+Plan for Tomorrow:
+*I will add footer and hover effects and deploy the project using GitHub Pages. I will also create a professional README file. 
+* I will add optimization score and metrics and improve overall UI polish and final structure of the project.
