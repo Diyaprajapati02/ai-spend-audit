@@ -100,3 +100,17 @@ What I Learned:
 Plan for Tomorrow:
 *I will add footer and hover effects and deploy the project using GitHub Pages. I will also create a professional README file. 
 * I will add optimization score and metrics and improve overall UI polish and final structure of the project.
+
+##Day 7 ______26-05-2026
+Hours worked: 2
+#What I Did:
+* Added README.md file
+* Improved overall UI with dark gradient background.
+* Added optimization score logic.
+* deployed site live.
+
+What I learned:
+* How CSS gradient improve UI appearence.
+
+## Final Outcome
+* Successfully completed and deployed the AI Spend Audit project with improved UI and polished interactions.
