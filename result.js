@@ -9,10 +9,24 @@ if (risk=== "High")
 {
     document.getElementById("risk").className= "high-risk";
 }
-else if(risk=== "medium")
+else if(risk=== "Medium")
 {
     document.getElementById("risk").className= "medium-risk";
 }
 else{
     document.getElementById("risk").className= "low-risk";
 }
+const scoreElement= document.getElementById("score");
+let score= 0;
+if (risk=== "High")
+{
+    score= 45;
+}
+else if(risk=== "Medium")
+{
+    score= 70;
+}
+else{
+    score= 90;
+}
+scoreElement.innerText= score + "%";
